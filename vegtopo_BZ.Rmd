@@ -2,7 +2,9 @@
 title: "veg-topo RBCMA Belize"
 author: "Sara Eshleman"
 date: "2023-06-23"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
